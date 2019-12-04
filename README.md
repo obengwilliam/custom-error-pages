@@ -1,4 +1,4 @@
-# Custom Error Pages
+# Custom Error Pages for Nginx Ingress
 
 
 ### Todo
